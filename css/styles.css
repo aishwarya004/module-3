@@ -55,8 +55,8 @@ body
 .navbar-menuitem li:hover {
 width:150px;
 padding:10px;
-border-bottom:1px dotted #fff;
-background:transparent;
+border-bottom:1px dotted #7d1913;
+background-color:#282828;
 border-radius:0;
 }
 
